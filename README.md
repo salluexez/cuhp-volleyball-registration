@@ -7,6 +7,7 @@
 [![Vite](https://img.shields.io/badge/Vite-6.4.1-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.17-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://cuhp-volleyball-registration.vercel.app/)
 
 > Official landing page for the **Inter-Departmental Volleyball Tournament** organized by the Office of the Sports Coordinator, Central University of Himachal Pradesh (CUHP), Shahpur Campus — held on the occasion of **National Science Day 2026**.
 
@@ -162,6 +163,7 @@ Or import directly from GitHub at **[vercel.com](https://vercel.com)**.
 
 ## 🔗 Useful Links
 
+- 🚀 [**Live Demo**](https://cuhp-volleyball-registration.vercel.app/)
 - 🌐 [University Website](https://www.cuhimachal.ac.in/)
 - 📅 [Academic Calendar](https://www.cuhimachal.ac.in/index.php/Academics/academic_calender)
 - 📝 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSdK0uuXQ2WNmIB_JD6a849obvLCsxjQC2Z_TSIm6n9EWLInkg/viewform?usp=header)
